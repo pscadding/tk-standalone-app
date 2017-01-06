@@ -13,11 +13,6 @@
 # expected fields in the configuration file for this engine
 configuration:
 
-  menu_name:
-        type: str
-        description: Name to appear on the Shotgun menu.
-        default_value: "Standalone Desktop App"
-
   icon:
     type: str
     description: "The path to the icon to appear for the application.  If the
